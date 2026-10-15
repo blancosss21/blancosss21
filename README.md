@@ -21,6 +21,7 @@
 
 
 # 💻 Tech Stack:
+
 # 💻 Tech Stack:
 
 ### 🏎️ Motorsport Simulation & Strategy Analytics
@@ -69,8 +70,6 @@
 ![Adobe](https://shields.io)
 ![Canva](https://shields.io)
 ![Gimp](https://shields.io)
-
-
 
 
 
