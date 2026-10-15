@@ -1,5 +1,16 @@
 # 💫 About Me:
-👨‍💻 I'm currently working on: Exploring innovative applications of advanced robotics and developing software engineering projects. 🚀<br><br>🤝 I'm looking to collaborate on: Cutting-edge motorsport technology projects, especially those involving race engineering and the integration of sustainable materials like linen in racing cars. 🏎️🌱<br><br>👐 I'm looking for help with: Finding like-minded individuals interested in starting a tech startup focused on innovative software solutions. 💡<br><br>🌱 I'm currently learning: MATLAB to enhance my data analysis skills for motorsport applications and deepen my understanding of hybrid drive systems. 📊🔧<br><br>💬 Ask me about: My experience in computer engineering, particularly in advanced robotics, and my recent project on spacecraft attitude analysis and simulation. 💻🔭<br><br>⚡ Fun Fact: I'm a fan of Formula 1 racing and never miss a race weekend. 🏎️ Before graduating, I want to travel across Europe to experience different cultures and meet new people through EU exchange programs. 🌍✈️<br>
+👨‍💻 **I'm currently working on:** Developing predictive simulation models and data-driven algorithms tailored for real-time race strategy engineering. 📈🏎️
+
+🤝 **I'm looking to collaborate on:** Advanced motorsport technology initiatives, focused on race analytics, lap time simulation, and optimal strategy planning under variable weather and track conditions. ⚡📊
+
+👐 **I'm looking for help with:** Connecting with motorsport professionals, telemetry experts, and data engineers passionate about pushing the boundaries of race track data analysis. 💡
+
+🌱 **I'm currently learning:** Deepening my mastery of MATLAB, Simulink, and specialized data analysis tools to optimize hybrid drive systems deployment and multi-stint strategy variations. 🔧🔋
+
+💬 **Ask me about:** My background in computer engineering, advanced robotics control loops, and my simulation project on spacecraft attitude analysis (which shares core kinematics and mathematical principles with high-performance vehicle dynamics). 💻🔭
+
+⚡ **Fun Fact:** I don't just watch Formula 1 for the speed—I live for the chess game of pit-stop undercuts and tyre degradation curves. 🏎️♟️ Before graduating, my goal is to travel across Europe to absorb diverse engineering cultures through EU exchange programs. 🌍✈️
+
 
 
 ## 🌐 Socials:
