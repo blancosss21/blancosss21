@@ -7,9 +7,9 @@
 
 🌱 **I'm currently learning:** Deepening my mastery of MATLAB, Simulink, and specialized data analysis tools to optimize hybrid drive systems deployment and multi-stint strategy variations. 🔧🔋
 
-💬 **Ask me about:** My background in computer engineering, advanced robotics control loops, and my simulation project on spacecraft attitude analysis (which shares core kinematics and mathematical principles with high-performance vehicle dynamics). 💻🔭
+💬 **Ask me about:** My background in computer engineering, advanced robotics and my Formula 1 Telemetry Engineer role 💻🔭
 
-⚡ **Fun Fact:** I don't just watch Formula 1 for the speed—I live for the chess game of pit-stop undercuts and tyre degradation curves. 🏎️♟️ Before graduating, my goal is to travel across Europe to absorb diverse engineering cultures through EU exchange programs. 🌍✈️
+⚡ **Fun Fact:** I don't just watch Formula 1 for the speed—I live for the chess game of pit-stop undercuts and tyre degradation curves. 🏎️♟️
 
 
 
